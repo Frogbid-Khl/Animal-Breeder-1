@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.northcalfrenchies.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1695107357|Cm-12cVk6le9
+www.northcalfrenchies.com	TRUE	/	FALSE	1999999999	hs	1401574262
+www.northcalfrenchies.com	TRUE	/	FALSE	1999999999	svSession	d7655b3fb707f9653c89d33f13c53c9d9ca80973fb162fbff0421bbb64c7c14a6941255963f00d2e6bb5155731bcfa2f1e60994d53964e647acf431e4f798bcdaa49827e2b03a6193a76a305a97eb5ab3370e8066b9f770115c64d709b8c036f58634d86fac6f35026760003b09db292cd046dc0938e01e6133085236e4180d2fba9eae9c4a07a332bdc687fc955f126
+www.northcalfrenchies.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.northcalfrenchies.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_miss#dc#desc=fastly_g
+

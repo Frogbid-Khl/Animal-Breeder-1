@@ -1,0 +1,41 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 Sep 2023 13:09:15 at https://www.northcalfrenchies.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.northcalfrenchies.com/ -O1 "C:\My Web Sites\Animal-Breeder1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:18:14	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/_files/ugd/ff5b16_02c3bfb174134769af009352dcdd5a14.pdf (from https://www.northcalfrenchies.com/)
+13:18:14	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/media/emptystate.85a4add5.svg (from https://www.northcalfrenchies.com/)
+13:18:14	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/feed.xml (from https://www.northcalfrenchies.com/)
+13:18:14	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/${n.uri} (from https://www.northcalfrenchies.com/)
+13:18:14	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/decodeURIComponent(e (from https://www.northcalfrenchies.com/)
+13:24:42	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/post/sitemap.xml (from https://www.northcalfrenchies.com/post/getting-a-french-bulldog-puppy)
+13:24:42	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/post/feed.xml (from https://www.northcalfrenchies.com/post/getting-a-french-bulldog-puppy)
+13:24:52	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/team-2/sitemap.xml (from https://www.northcalfrenchies.com/team-2/blue)
+13:24:52	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/team-2/feed.xml (from https://www.northcalfrenchies.com/team-2/blue)
+13:25:04	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-6-1/sitemap.xml (from https://www.northcalfrenchies.com/properties-6-1/19)
+13:25:04	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-6-1/feed.xml (from https://www.northcalfrenchies.com/properties-6-1/19)
+13:25:17	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-3/sitemap.xml (from https://www.northcalfrenchies.com/properties-3/1)
+13:25:17	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-3/feed.xml (from https://www.northcalfrenchies.com/properties-3/1)
+13:25:29	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-2/sitemap.xml (from https://www.northcalfrenchies.com/properties-2/1)
+13:25:29	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-2/feed.xml (from https://www.northcalfrenchies.com/properties-2/1)
+13:25:41	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/items-2/sitemap.xml (from https://www.northcalfrenchies.com/items-2/1)
+13:25:41	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/items-2/feed.xml (from https://www.northcalfrenchies.com/items-2/1)
+13:25:45	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/frenchbulldogblog/categories/sitemap.xml (from https://www.northcalfrenchies.com/frenchbulldogblog/categories/health)
+13:25:45	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/frenchbulldogblog/categories/feed.xml (from https://www.northcalfrenchies.com/frenchbulldogblog/categories/health)
+13:25:50	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/ff5b16_ee648ae959a5462184028ffde6f69ef4~mv2.jpg/v1/fill/w_147,h_182,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ff5b16_ee648ae959a5462184028ffde6f69ef4~mv2.jpg (from https://www.northcalfrenchies.com/post/full-facts-about-french-bulldogs)
+13:25:52	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/team-2/media/sitemap.xml (from https://www.northcalfrenchies.com/team-2/media/emptystate.85a4add5.svg)
+13:25:52	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/team-2/media/feed.xml (from https://www.northcalfrenchies.com/team-2/media/emptystate.85a4add5.svg)
+13:25:57	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-6-1/media/sitemap.xml (from https://www.northcalfrenchies.com/properties-6-1/media/emptystate.85a4add5.svg)
+13:25:57	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-6-1/media/feed.xml (from https://www.northcalfrenchies.com/properties-6-1/media/emptystate.85a4add5.svg)
+13:26:02	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-3/media/sitemap.xml (from https://www.northcalfrenchies.com/properties-3/media/emptystate.85a4add5.svg)
+13:26:02	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-3/media/feed.xml (from https://www.northcalfrenchies.com/properties-3/media/emptystate.85a4add5.svg)
+13:26:08	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-2/media/sitemap.xml (from https://www.northcalfrenchies.com/properties-2/media/emptystate.85a4add5.svg)
+13:26:08	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/properties-2/media/feed.xml (from https://www.northcalfrenchies.com/properties-2/media/emptystate.85a4add5.svg)
+13:26:13	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/items-2/media/sitemap.xml (from https://www.northcalfrenchies.com/items-2/media/emptystate.85a4add5.svg)
+13:26:13	Error: 	"Not Found" (404) at link https://www.northcalfrenchies.com/items-2/media/feed.xml (from https://www.northcalfrenchies.com/items-2/media/emptystate.85a4add5.svg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 9 seconds : 999 links scanned, 968 files written (185370337 bytes overall) [74223247 bytes received at 72131 bytes/sec], 145225639 bytes transferred using HTTP compression in 221 files, ratio 22%, 3.9 requests per connection
+(30 errors, 0 warnings, 0 messages)
